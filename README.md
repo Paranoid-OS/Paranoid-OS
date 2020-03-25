@@ -1,5 +1,6 @@
 # Paranoid OS
 Main repository for Paranoid OS
+Currently in development
 
 ## What is Paranoid OS?
 Paranoid OS is one of the most secure OS you can run, which can also **seamlessly run apps from multiple OSes in one desktop** using *virtual machines* that make Paranoid OS secure "internally". 
